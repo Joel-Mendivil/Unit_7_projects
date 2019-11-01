@@ -38,6 +38,14 @@ article{
    -webkit-flex-flow: row wrap;
    flex-flow: row wrap;
 }
+section#stats{
+   -webkit-flex: 1 4 120px;
+   flex: 1 4 120px;
+}
+section#summary{
+   -webkit-flex: 4 1 361px;
+   flex: 4 1 361px;
+}
 aside{
    display: -webkit-flex;
    display: flex;
