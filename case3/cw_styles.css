@@ -121,6 +121,7 @@ nav#bottom ul{
         align-items: center;
     }
     nav#top ul li{
+        -webkit-flex:  1 80px;
         flex: 0 1 80px;
     }
     p#links{
